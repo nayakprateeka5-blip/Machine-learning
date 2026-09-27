@@ -1,0 +1,18 @@
+5️ Define features (X) and target variable (y)?
+
+1.Features (Independent Variables):
+  Features are the individual measurable properties or characteristics of the data being observed.
+  They serve as the input variables used by a model to make predictions.
+  In a dataset, features are typically represented as columns.
+  They act as the 'independent variables' (X) in a mathematical model. 
+
+
+2. Target Variable (Dependent Variable):
+   The target variable is the specific outcome or value that the machine learning model is intended to predict based on the provided features.
+   It acts as the 'dependent variable' (y) because its value depends on the input features.
+   Categorical: If the target represents classes (e.g., 'Spam' vs 'Not Spam'), it is a classification task.
+   Continuous: If the target represents a numerical value (e.g., 'Price'), it is a regression task.
+
+
+
+
